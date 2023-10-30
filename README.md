@@ -1,18 +1,16 @@
-### Hi there 👋, I'm Sreeranjini
+<h1 align="center">Hi 👋, I'm SreeRanjini</h1>
+<h3 align="center">A passionate frontend developer & QA Analyst from St John's</h3>
 
-A passionate frontend developer & QA Analyst based in St John's
-<!--
-**sreeranjini2020/sreeranjini2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeranjini2020&label=Profile%20views&color=0e75b6&style=flat" alt="sreeranjini2020" /> </p>
 
 - 🌱 I’m currently learning **Google IT Automation with Python**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: **sreeranjini2020@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://sreeranjini2020.github.io/my_portfolio/](https://sreeranjini2020.github.io/my_portfolio/)
+
+- 📫 How to reach me **sreeranjini2020@gmail.com**
+
 - 😄 Pronouns: **She/Her**
+
 - 📄 Know about my experiences [https://sreeranjini2020.github.io/my_portfolio/assets/resume.pdf](https://sreeranjini2020.github.io/my_portfolio/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
@@ -28,5 +26,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeranjini2020&show_icons=true&locale=en" alt="sreeranjini2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeranjini2020&" alt="sreeranjini2020" /></p>
-
--->
