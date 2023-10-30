@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google IT Automation with Python**
 
-- 👨‍💻 All of my projects are available at [https://sreeranjini2020.github.io/my_portfolio/](https://sreeranjini2020.github.io/my_portfolio/)
+- 👨‍💻 My portfolio is available at [https://sreeranjini2020.github.io/my_portfolio/](https://sreeranjini2020.github.io/my_portfolio/)
 
 - 📫 How to reach me **sreeranjini2020@gmail.com**
 
