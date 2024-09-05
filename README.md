@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SreeRanjini</h1>
+<h1 align="center">Hi 👋, I'm Sreeranjini</h1>
 <h3 align="center">A passionate frontend developer & QA Analyst from St John's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeranjini2020&label=Profile%20views&color=0e75b6&style=flat" alt="sreeranjini2020" /> </p>
