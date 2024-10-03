@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sreeranjini</h1>
-<h3 align="center">A passionate frontend developer & QA Analyst from St John's</h3>
+<h3 align="center">A passionate QA Analyst from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeranjini2020&label=Profile%20views&color=0e75b6&style=flat" alt="sreeranjini2020" /> </p>
 
-- 🌱 I’m currently learning **Google IT Automation with Python**
+- 🌱 I’m currently learning **Selenium WebDriver with TestNG and POM**
 
 - 👨‍💻 My portfolio is available at [https://sreeranjini2020.github.io/my_portfolio/](https://sreeranjini2020.github.io/my_portfolio/)
 
