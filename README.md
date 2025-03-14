@@ -9,8 +9,6 @@
 
 - 😄 Pronouns: **She/Her**
 
-- 📄 Know about my experiences [https://sreeranjini2020.github.io/my_portfolio/assets/resume.pdf](https://sreeranjini2020.github.io/my_portfolio/assets/resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreeranjinikp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeranjinikp" height="30" width="40" /></a>
