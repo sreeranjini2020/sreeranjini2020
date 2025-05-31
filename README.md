@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeranjini2020&label=Profile%20views&color=0e75b6&style=flat" alt="sreeranjini2020" /> </p>
 
-- 🌱 I’m currently learning **Selenium WebDriver with TestNG and POM**
 
 - 📫 How to reach me **sreeranjini2020@gmail.com**
 
