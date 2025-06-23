@@ -5,8 +5,7 @@
 
 
 I'm a QA Analyst with 2 years of industry experience and bachelor's degree in Electronics and Communication Enginnering.
-I’m currently learning about API testing.
-Pronouns: She / Her.
+
 
 
 <h3 align="left">Connect with me:</h3>
