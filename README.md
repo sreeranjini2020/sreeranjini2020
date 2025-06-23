@@ -7,7 +7,7 @@ Hi, my name is Sreeranjini Kiliyadath Poyil
 I'm a QA Analyst with 2 years of industry experience and bachelor's degree in Electronics and Communication Enginnering.
 I’m currently learning about API testing.
 Pronouns: She / Her.
-👩🏻‍💻 My most used languages & tools:
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
