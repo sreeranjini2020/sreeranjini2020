@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeranjini2020&label=Profile%20views&color=0e75b6&style=flat" alt="sreeranjini2020" /> </p>
 
-Hi, my name is Sreeranjini Kiliyadath Poyil✨
+Hi, my name is Sreeranjini Kiliyadath Poyil
 I'm a QA Analyst with 2 years of industry experience and bachelor's degree in Electronics and Communication Enginnering.
 I’m currently learning about API testing.
 Pronouns: She / Her.
